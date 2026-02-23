@@ -48,11 +48,10 @@ pip install -r requirements.txt
 
 # Run Streamlit App 
 
-Masuk ke folder dashboard:
+Jalankan dari root folder project:
 
 ```
-cd dashboard
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 
 Aplikasi akan berjalan di:
