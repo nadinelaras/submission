@@ -2,6 +2,15 @@
 
 I recently completed a data analysis project exploring e-commerce operational and revenue performance.
 
+Author:
+Nadine Putri Larasati
+
+LinkedIn:
+https://www.linkedin.com/in/nadine-putri-larasati-847214395/
+
+GitHub:
+https://github.com/nadinelaras
+
 ## Business Questions:
 
 - How did delivery performance (delivery time and delays) for orders with delivered status vary during 2016-2018, and which product categories most frequently experienced delays?
