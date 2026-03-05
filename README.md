@@ -1,18 +1,48 @@
-# E-Commerce Dashboard 
+# End-to-End Data Analysis Project: E-Commerce Performance (2016-2018)
 
-Dashboard untuk analisis performa e-commerce berdasarkan data transaksi.
+I recently completed a data analysis project exploring e-commerce operational and revenue performance.
+
+# Business Questions:
+
+- How did delivery performance (delivery time and delays) for orders with delivered status vary during 2016-2018, and which product categories most frequently experienced delays?
+- Which product categories generated the highest revenue during 2016-2018, and how did their sales trends evolve over time?
+
+# What I Did:
+
+- Data Wrangling (Gathering, Assessing, and Cleaning)
+- Exploratory Data Analysis (EDA)
+- Feature engineering (delivery time, delay flag, revenue aggregation)
+- Built an interactive dashboard using Streamlit
+- Deployed to Streamlit Cloud
+
+# Key Insights:
+
+- Logistics performance improved consistently from 2016 to 2018, with average delivery time decreasing and delay rates remaining low, indicating stronger operational efficiency. However, several extreme delivery outliers persisted, and large-product categories such as moveis_colchao_e_estofado and casa_conforto_2 recorded the highest delay rates.
+- Revenue grew rapidly during 2016–2018, reflecting strong expansion and increasing demand, with beleza_saude, relogios_presentes, and cama_mesa_banho as the main contributors. Revenue distribution remained diversified, while Champions and Loyal Customers generated significantly higher revenue than one-time buyers.
+
+# Tools:
+
+Python, Altair, Matplotlib, NumPy, Pandas, Seaborn, Streamlit, Git, and GitHub.
+
+# Live Dashboard:
+
+https://submission-kf8l4it5krvlxdfuttfsdh.streamlit.app/
+
+I’m continuing to deepen my skills in data analysis and dashboard development.
+
+Feedback is welcome!
 
 # AI Attribution/Acknowledgements
 
-Ide dan Konsep: Saya menggunakan ChatGPT untuk brainstorming fitur yang akan dibutuhkan sesuai konteks bisnis pada dataset yang saya pakai yaitu E-Commerce Public Dataset.
+Ideas and Concepts: I utilized ChatGPT to brainstorm necessary features based on the business context of my project, specifically using the E-Commerce Public Dataset.
 
-Syntax dan Debugging: Saya menggunakan ChatGPT untuk memperbaiki kode yang saya gunakan, terdapat penyesuaian yang diberikan oleh ChatGPT agar selaras dengan syntax Python.
+Syntax and Debugging: I utilized ChatGPT to refine and debug my code, ensuring all scripts were properly adjusted to align with standard Python syntax.
 
-Interpretasi: Saya menggunakan ChatGPT untuk memahami dataset dalam konteks ilmu bisnis sehingga saya dapat melihat insight yang ada pada proses analisis data.
+Interpretation: I utilized ChatGPT to better understand the dataset through a business lens, which helped me identify key insights during the data analysis process.
 
-Catatan: Semua kode telah saya uji dan modifikasi.
+Note: All code has been personally tested and modified.
 
-# Struktur Direktori 
+# Directory Structure
 
 ```
 submission
@@ -48,13 +78,13 @@ pip install -r requirements.txt
 
 # Run Streamlit App 
 
-Jalankan dari root folder project:
+Run from the project root directory:
 
 ```
 streamlit run dashboard/dashboard.py
 ```
 
-Aplikasi akan berjalan di:
+The application will run at:
 
 ```
 http://localhost:8501
