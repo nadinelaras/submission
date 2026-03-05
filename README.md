@@ -31,7 +31,9 @@ https://submission-kf8l4it5krvlxdfuttfsdh.streamlit.app/
 ## Dashboard Preview
 
 ![Dashboard Overview](Screenshot (1626).png)
+
 ![Dashboard Interaction 1](Screenshot (1627).png)
+
 ![Dashboard Interaction 2](Screenshot (1628).png)
 
 ## AI Attribution/Acknowledgements
