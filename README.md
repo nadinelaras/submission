@@ -2,12 +2,12 @@
 
 I recently completed a data analysis project exploring e-commerce operational and revenue performance.
 
-# Business Questions:
+## Business Questions:
 
 - How did delivery performance (delivery time and delays) for orders with delivered status vary during 2016-2018, and which product categories most frequently experienced delays?
 - Which product categories generated the highest revenue during 2016-2018, and how did their sales trends evolve over time?
 
-# What I Did:
+## What I Did:
 
 - Data Wrangling (Gathering, Assessing, and Cleaning)
 - Exploratory Data Analysis (EDA)
@@ -15,24 +15,26 @@ I recently completed a data analysis project exploring e-commerce operational an
 - Built an interactive dashboard using Streamlit
 - Deployed to Streamlit Cloud
 
-# Key Insights:
+## Key Insights:
 
 - Logistics performance improved consistently from 2016 to 2018, with average delivery time decreasing and delay rates remaining low, indicating stronger operational efficiency. However, several extreme delivery outliers persisted, and large-product categories such as moveis_colchao_e_estofado and casa_conforto_2 recorded the highest delay rates.
 - Revenue grew rapidly during 2016–2018, reflecting strong expansion and increasing demand, with beleza_saude, relogios_presentes, and cama_mesa_banho as the main contributors. Revenue distribution remained diversified, while Champions and Loyal Customers generated significantly higher revenue than one-time buyers.
 
-# Tools:
+## Tools:
 
 Python, Altair, Matplotlib, NumPy, Pandas, Seaborn, Streamlit, Git, and GitHub.
 
-# Live Dashboard:
+## Live Dashboard:
 
 https://submission-kf8l4it5krvlxdfuttfsdh.streamlit.app/
 
-I’m continuing to deepen my skills in data analysis and dashboard development.
+## Dashboard Preview
 
-Feedback is welcome!
+![Dashboard Overview](Screenshot (1626).png)
+![Dashboard Interaction 1](Screenshot (1627).png)
+![Dashboard Interaction 2](Screenshot (1628).png)
 
-# AI Attribution/Acknowledgements
+## AI Attribution/Acknowledgements
 
 Ideas and Concepts: I utilized ChatGPT to brainstorm necessary features based on the business context of my project, specifically using the E-Commerce Public Dataset.
 
@@ -42,7 +44,7 @@ Interpretation: I utilized ChatGPT to better understand the dataset through a bu
 
 Note: All code has been personally tested and modified.
 
-# Directory Structure
+## Directory Structure
 
 ```
 submission
@@ -60,7 +62,7 @@ submission
 └───url.txt
 ```
 
-# Setup Environment - Anaconda 
+## Setup Environment - Anaconda 
 
 ```
 conda create --name main-ds python=3.9
@@ -68,7 +70,7 @@ conda activate main-ds
 pip install -r requirements.txt
 ```
 
-# Setup Environment - Shell/Terminal 
+## Setup Environment - Shell/Terminal 
 
 ```
 python -m venv venv
@@ -76,7 +78,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-# Run Streamlit App 
+## Run Streamlit App 
 
 Run from the project root directory:
 
