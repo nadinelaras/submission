@@ -33,7 +33,7 @@ https://github.com/nadinelaras
 
 Python, Altair, Matplotlib, NumPy, Pandas, Seaborn, Streamlit, Git, and GitHub.
 
-## Live Dashboard:
+## Dashboard:
 
 https://submission-kf8l4it5krvlxdfuttfsdh.streamlit.app/
 
