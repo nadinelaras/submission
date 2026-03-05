@@ -53,7 +53,6 @@ Note: All code has been personally tested and modified.
 ## Directory Structure
 
 ```
-submission
 ├───dashboard
 | ├───main_data.csv
 | └───dashboard.py
