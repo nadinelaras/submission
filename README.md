@@ -18,7 +18,7 @@ I recently completed a data analysis project exploring e-commerce operational an
 ## Key Insights:
 
 - Logistics performance improved consistently from 2016 to 2018, with average delivery time decreasing and delay rates remaining low, indicating stronger operational efficiency. However, several extreme delivery outliers persisted, and large-product categories such as moveis_colchao_e_estofado and casa_conforto_2 recorded the highest delay rates.
-- Revenue grew rapidly during 2016–2018, reflecting strong expansion and increasing demand, with beleza_saude, relogios_presentes, and cama_mesa_banho as the main contributors. Revenue distribution remained diversified, while Champions and Loyal Customers generated significantly higher revenue than one-time buyers.
+- Revenue grew rapidly during 2016-2018, reflecting strong expansion and increasing demand, with beleza_saude, relogios_presentes, and cama_mesa_banho as the main contributors. Revenue distribution remained diversified, while Champions and Loyal Customers generated significantly higher revenue than one-time buyers.
 
 ## Tools:
 
