@@ -9,7 +9,7 @@ I recently completed a data analysis project exploring e-commerce operational an
 
 ## What I Did:
 
-- Data Wrangling (Gathering, Assessing, and Cleaning)
+- Data Wrangling (Gathering, Assessing, Cleaning)
 - Exploratory Data Analysis (EDA)
 - Feature engineering (delivery time, delay flag, revenue aggregation)
 - Built an interactive dashboard using Streamlit
